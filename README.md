@@ -1,1 +1,5 @@
 # CS340
+
+I write programs that are maintainable, readable, and adaptable by limiting the size of my functions and committing on my code.  I also try to use best coding practices.  Limiting the size of my functions allows me to come back to the code and not waste a lot of time trying to figure out what the function does.  Commenting on the code also give future me or anyone else working on the project an idea of what I'm coding and what it is supposed to do.  Having a seperate class for the database access allows for that to be maintained and reused easily. 
+As a computer scientist I approach a problem by figuring out exactly what the problem is.  Without clear understanding of what the needs and requirements are it would be very difficult to deliver a useful product.
+Computer scientist work with companies to develop computer applications to help the company achieve some goal.  Technology is constantly advancing and companies that dont advance their systems and methods will be outperformed by other comapnies that are.  Computer scientists bridge the gap between computer systems and their business.
